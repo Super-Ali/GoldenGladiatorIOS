@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166149913858",
+    "project_id": "login-app-fd623",
+    "storage_bucket": "login-app-fd623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166149913858:android:13611b323838550b2ed61b",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166149913858-l0lad540inm0u0fu78k3003j9f9fh6lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_Yc1m_Y24Vu-_-9x58KGCF8h86PGv5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166149913858-l0lad540inm0u0fu78k3003j9f9fh6lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
